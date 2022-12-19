@@ -2,7 +2,7 @@
 
 ### About me:
 <p>
-   📗 I'm 18 years old, Computer Science student at CEUB(Centro Univesitário de Brasíla). <br>
+   📗 I'm 19 years old, Computer Science student at CEUB(Centro Univesitário de Brasíla). <br>
     🧠I'm currently studying Python, Node and React, so i intend to be a fullstack developer. <br>
     💻I'm looking for my first job opportunity as a developer.
 </p>
