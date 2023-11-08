@@ -2,7 +2,7 @@
 
 ### About me:
 <p>
-   📗 I'm 19 years old, Computer Science student at CEUB(Centro Univesitário de Brasíla). <br>
+   📗 I'm 20 years old, Computer Science student at CEUB(Centro Univesitário de Brasíla). <br>
     🧠I'm currently studying Java, Node and React, so i intend to be a fullstack developer. <br>
     💻I'm looking for my first job opportunity as a developer.
 </p>
@@ -16,6 +16,7 @@
 ### 🖥️Technologies:
 
 <div style= "display: inline_block"><br>
+      <img align= "center" alt= "nodeJS" src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align= "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align= "center" alt= "react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align= "center" alt= "javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
